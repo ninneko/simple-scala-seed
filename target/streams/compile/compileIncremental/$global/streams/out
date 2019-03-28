@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /Users/yohei.naruse/git/work/untitled/target/scala-2.11/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.7[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.11' for Scala 2.11.7. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.11.7.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_7c070c45[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes:/Users/yohei.naruse/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_f1d74b08/jars/org.scala-sbt/compiler-interface/compiler-interface-1.2.5.jar:/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_f1d74b08/jars/org.scala-sbt/util-interface/util-interface-1.2.2.jar:/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_f1d74b08/srcs/org.scala-sbt/compiler-bridge_2.11/compiler-bridge_2.11-1.2.5-sources.jar:/Users/yohei.naruse/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.7.jar:/Users/yohei.naruse/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar:/Users/yohei.naruse/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/Users/yohei.naruse/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/Users/yohei.naruse/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/x4/_nnj408d68gg2jtmzr4q8h7c0000gn/T/sbt_cf1490fe/xsbt/ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 9.105s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4d5e852b for Scala compiler version 2.11.7[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes:/Users/yohei.naruse/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/yohei.naruse/git/work/untitled/target/scala-2.11/classes:/Users/yohei.naruse/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.5.jar:/Users/yohei.naruse/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 12.879430132 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
